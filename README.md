@@ -7,33 +7,33 @@ Support so far
 
 App
 -
-Stream - Partially Works, no pictures
-Facebook sign in - Works, dummy response
-Profile - Doesn't work
-Similar fans - Works
-Top Artists - Doesn't work
-Similar Artists - Doesn't work
-Recommended artists - Doesn't work
-Liking a stream post - Doesn't work
-Comments - Doesn't work
-Posting pictures - Doesn't work
-Artist Top fans - Works
-Artist Info - Doesn't work, crashes app
+Stream - Partially Works, no pictures  
+Facebook sign in - Works, dummy response  
+Profile - Doesn't work  
+Similar fans - Works  
+Top Artists - Doesn't work  
+Similar Artists - Doesn't work  
+Recommended artists - Doesn't work  
+Liking a stream post - Doesn't work  
+Comments - Doesn't work  
+Posting pictures - Doesn't work  
+Artist Top fans - Works  
+Artist Info - Doesn't work, crashes app  
 
 Website
 -
-Sign in - Forced
-Stream - Partially Works, Only Video Type
-Search - Partially Works
-Liking Posts - Works
-Comments - Works
-Top Fans - Works
-Recommended - Partially works
-Trending Artists - Partially works
-Follow Artist - Doesn't work
-Top fans - Works
-Top Tracks - Works
-Biography - Partially works
-Artist's Feed - Doesn't work
-Search Suggestions - Doesn't work
+Sign in - Forced  
+Stream - Partially Works, Only Video Type  
+Search - Partially Works  
+Liking Posts - Works  
+Comments - Works  
+Top Fans - Works  
+Recommended - Partially works  
+Trending Artists - Partially works  
+Follow Artist - Doesn't work  
+Top fans - Works  
+Top Tracks - Works  
+Biography - Partially works  
+Artist's Feed - Doesn't work  
+Search Suggestions - Doesn't work  
 
