@@ -14,7 +14,7 @@
   <div id="fb-root"></div>
   <script type="text/javascript">
   $(document).ready(function() {
-    var user = { "id" : "12345", "name" : "Retrofoxxo", "last_name" : "test", "facebook_id" : "122102047148149148" }
+    var user = {"id":"12345", "name":"Retrofoxxo", "like_count": 1, "comment_count": 1, "upload_count": 1, "last_name":"test", "facebook_id":"122102047148149148"}
 
     if (!user || user == "null") {
       user = { "id" : "guest", "name" : "Guest" };
