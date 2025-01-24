@@ -26,7 +26,7 @@ Sign in - Forced
 Stream - Partially Works, Only Video Type
 Search - Partially Works
 Liking Posts - Works
-Comments - Doesn't work
+Comments - Works
 Top Fans - Works
 Recommended - Partially works
 Trending Artists - Partially works
