@@ -24,16 +24,21 @@ Website
 -
 Sign in - Forced  
 Stream - Partially Works, Only Video Type  
-Search - Partially Works  
+Search - Works  
 Liking Posts - Works  
 Comments - Works  
 Top Fans - Works  
-Recommended - Partially works  
-Trending Artists - Partially works  
+Recommended - Works
+Trending Artists - Works 
 Follow Artist - Doesn't work  
 Top fans - Works  
 Top Tracks - Works  
-Biography - Partially works  
-Artist's Feed - Doesn't work  
-Search Suggestions - Doesn't work  
+Biography - Works  
+Artist's Feed - Works  
+Search Suggestions - Works
+Similar artists - Works
+Top fans - works
+Liked posts - Works
+Followed Artists - Works
+Friends - Works
 
