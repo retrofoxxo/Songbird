@@ -28,8 +28,8 @@ Search - Works
 Liking Posts - Works  
 Comments - Works  
 Top Fans - Works  
-Recommended - Works
-Trending Artists - Works 
+Recommended - Works  
+Trending Artists - Works  
 Follow Artist - Doesn't work  
 Top fans - Works  
 Top Tracks - Works  
