@@ -66,9 +66,12 @@
       </ul>
     </span>
     <span class="divider"></span>
-      <span class="link sign-in">
-        <span class="text"><a href="https://www.facebook.com/dialog/oauth?client_id=246079522088793&amp;redirect_uri=http://www.songbird.me/login&amp;scope=user_likes,email,friends_likes,user_location,publish_actions&amp;state=" id="sign_in">Login</a></span>
-      </span>
+    <span class="link" id="user-link">
+      <span class="text">Retrofoxxo</span>
+      <ul class="dropdown">
+        <li class="first last"><a href="/logout" id="log-out">Log Out</a></li>
+      </ul>
+     </span>
   </div>
 </div>
 <div id="notice"></div>
