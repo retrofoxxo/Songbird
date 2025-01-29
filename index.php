@@ -22,7 +22,7 @@
     }
 
 
-    Soundboard.welcome = true;
+    Soundboard.welcome = false;
     Soundboard.promptArtist = false;
 
     Soundboard.init({
