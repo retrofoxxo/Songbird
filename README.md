@@ -35,10 +35,10 @@ Top fans - Works
 Top Tracks - Works  
 Biography - Works  
 Artist's Feed - Works  
-Search Suggestions - Works
-Similar artists - Works
-Top fans - works
-Liked posts - Works
-Followed Artists - Works
-Friends - Works
+Search Suggestions - Works  
+Similar artists - Works  
+Top fans - works  
+Liked posts - Works  
+Followed Artists - Works  
+Friends - Works  
 
