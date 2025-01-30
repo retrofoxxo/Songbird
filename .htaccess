@@ -1,0 +1,12 @@
+Options +MultiViews
+RewriteEngine on
+RewriteCond %{THE_REQUEST} /([^.]+)\.php [NC]
+RewriteRule ^ /%1 [NC,L,R]
+RewriteCond %{REQUEST_FILENAME}.php -f
+RewriteRule ^ %{REQUEST_URI}.php [NC,L]
+
+php_flag display_errors on
+
+ErrorDocument 404 /404
+ErrorDocument 403 /ip_ban
+ErrorDocument 500 /404
